@@ -1,0 +1,22 @@
+print("This code is for 2 variable simultanous equations...")
+print("....................................................")
+print(" ")
+print(': as Mx+Ny = L and Ax+By = C :' )
+print("..........................")
+print(" ")
+print(" ")
+M=float(input('Enter M= '))
+N=float(input('Enter N= '))
+L=float(input('Enter L= '))
+A=float(input('Enter A= '))
+B=float(input('Enter B= '))
+C=float(input('Enter C= '))
+k=A*N-B*M
+answerx=(N*C-B*L)/k
+answery=(A*L-M*C)/k
+print(" ")
+print('x= ',answerx)
+print('y= ',answery)
+print("....................................................")
+print('HAVE FUN')
+J=input('PRESS ANY KEY TO EXIT FROM THIS PYTHON CODE')
