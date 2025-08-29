@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDSCJ- which stands for M. D. S. Chamath Jayasinghe 
 - 👀 I’m interested in ...engineering Mathamatics
-- 🌱 I’m currently learning ...Electronic Engineering
+- 🌱 I’m currently learning ...Computer Science Engineering
 - 📫 How to reach me ...Just contact on telegram....@ChamathJayasingha
 - ⚡ Fun fact: not a gay
 - ⠀⠀⠀⠀⠀⠀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
