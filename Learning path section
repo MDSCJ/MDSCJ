@@ -1,0 +1,57 @@
+## <img src="https://img.icons8.com/fluency-systems-filled/24/00BFFF/graph.png" alt="Journey" align="absmiddle" /> Learning Path
+
+```mermaid
+flowchart LR
+    A[Digital Hardware] --> B[Operating Systems]
+    B --> C[Algorithms]
+    C --> D[Databases]
+    D --> E[Software Engineering]
+    E --> F[Computer Vision]
+    F --> G[Marine Data Science]
+    classDef step fill:#0d1117,stroke:#00BFFF,stroke-width:2px,color:#00BFFF
+    classDef goal fill:#00BFFF,stroke:#00BFFF,stroke-width:2px,color:#0d1117
+    class A,B,C,D,E,F step
+    class G goal
+```
+
+### Project Areas
+
+```mermaid
+graph TD
+    Me[Chamath] --> BE[Backend Engineering]
+    Me --> CV[Computer Vision]
+    Me --> SR[Simulation and Robotics]
+    Me --> HW[Hardware Logic]
+    BE --> P1[Snip Me]
+    BE --> P2[ResQLink]
+    CV --> P3[Seraffins]
+    SR --> P4[PyBullet Lab]
+    HW --> P5[VHDL and RISC-V]
+    classDef root fill:#00BFFF,stroke:#00BFFF,color:#0d1117
+    classDef area fill:#0d1117,stroke:#00BFFF,stroke-width:2px,color:#00BFFF
+    classDef proj fill:#0d1117,stroke:#555,color:#ffffff
+    class Me root
+    class BE,CV,SR,HW area
+    class P1,P2,P3,P4,P5 proj
+```
+
+<details>
+<summary><b>Static version (if the diagrams don't load)</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-DIGITAL_HARDWARE-0d1117?style=flat-square&labelColor=00BFFF&color=0d1117" alt="01 DIGITAL_HARDWARE" /> <b>▸</b> <img src="https://img.shields.io/badge/02-OPERATING_SYSTEMS-0d1117?style=flat-square&labelColor=00BFFF&color=0d1117" alt="02 OPERATING_SYSTEMS" /> <b>▸</b> <img src="https://img.shields.io/badge/03-ALGORITHMS-0d1117?style=flat-square&labelColor=00BFFF&color=0d1117" alt="03 ALGORITHMS" /> <b>▸</b> <img src="https://img.shields.io/badge/04-DATABASES-0d1117?style=flat-square&labelColor=00BFFF&color=0d1117" alt="04 DATABASES" /><br>
+  <b>▾</b><br>
+  <img src="https://img.shields.io/badge/05-SOFTWARE_ENGINEERING-0d1117?style=flat-square&labelColor=00BFFF&color=0d1117" alt="05 SOFTWARE_ENGINEERING" /> <b>▸</b> <img src="https://img.shields.io/badge/06-COMPUTER_VISION-0d1117?style=flat-square&labelColor=00BFFF&color=0d1117" alt="06 COMPUTER_VISION" /> <b>▸</b> <img src="https://img.shields.io/badge/07-MARINE_DATA_SCIENCE-0d1117?style=flat-square&labelColor=00BFFF&color=0d1117" alt="07 MARINE_DATA_SCIENCE" />
+</p>
+
+### Project Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BACKEND_ENGINEERING-SNIP_ME,_RESQLINK-0d1117?style=flat-square&labelColor=00BFFF&color=0d1117" alt="BACKEND_ENGINEERING" /><br>
+  <img src="https://img.shields.io/badge/COMPUTER_VISION-SERAFFINS-0d1117?style=flat-square&labelColor=00BFFF&color=0d1117" alt="COMPUTER_VISION" /><br>
+  <img src="https://img.shields.io/badge/SIMULATION_%26_ROBOTICS-PYBULLET_LAB-0d1117?style=flat-square&labelColor=00BFFF&color=0d1117" alt="SIMULATION_%26_ROBOTICS" /><br>
+  <img src="https://img.shields.io/badge/HARDWARE_LOGIC-VHDL,_RISC--V-0d1117?style=flat-square&labelColor=00BFFF&color=0d1117" alt="HARDWARE_LOGIC" />
+</p>
+
+</details>
